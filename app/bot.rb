@@ -1,4 +1,4 @@
-require_relative "bot/client"
+require_relative 'bot/client'
 
 class Bot
 	
