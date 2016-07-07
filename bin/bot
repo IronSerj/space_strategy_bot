@@ -1,4 +1,3 @@
 #!/usr/bin/env ruby
-
-require './../app/bot'
+require File.expand_path('../../app/bot', __FILE__)
 Bot.run

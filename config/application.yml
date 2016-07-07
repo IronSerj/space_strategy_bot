@@ -1,0 +1,4 @@
+server:
+  host: localhost:3000
+
+auth_token: cyDXywZWQhJ7GexvSK6XJELN
