@@ -1,9 +1,8 @@
-require File.expand_path('../../config/application', __FILE__)
+require "#{ROOT}/app/bot/client"
 
 class Bot
 	
-	def self.run
+	def run
 		puts "BOT: I'm Here!"
-		puts "#{APPLICATION_SETTINGS}"
 	end
 end
