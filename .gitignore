@@ -1,0 +1,5 @@
+/.bundle
+
+/config/application.yml
+
+*.DS_store
