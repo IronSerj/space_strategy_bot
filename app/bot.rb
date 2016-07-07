@@ -1,4 +1,4 @@
-require "#{ROOT}/app/bot/client"
+require_relative "bot/client"
 
 class Bot
 	
