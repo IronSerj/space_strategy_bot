@@ -1,3 +1,4 @@
 source 'https://rubygems.org'
 
-gem 'websocket'
+gem 'oj'
+gem 'websocket-eventmachine-client'

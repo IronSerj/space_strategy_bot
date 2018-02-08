@@ -1,8 +1,8 @@
 require_relative 'bot/client'
 
 class Bot
-	
-	def run
-		puts "BOT: I'm Here!"
+  def move(map)
+		p "BOT: I'm moving!"
+    { some_message: 'qwe' }
 	end
 end

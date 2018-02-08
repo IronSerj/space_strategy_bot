@@ -1,4 +1,4 @@
 server:
-  host: localhost:3000
+  url: ws://localhost:3000/cable
 
 auth_token: cyDXywZWQhJ7GexvSK6XJELN
